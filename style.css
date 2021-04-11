@@ -1,0 +1,54 @@
+body{
+    overflow: hidden;
+    background: #1A2E33;
+    
+}
+#book{
+    margin: 5% auto;
+    width: 800px;
+    height: 1600px;
+
+}
+#book .turn-page{
+    background-size: 100% 100%;
+}
+#book div{
+    background-size: cover;
+    background-position: center center;
+}
+
+#magazine{
+    margin: 3% auto;
+	width: 900px;
+	height: 700px;
+    box-shadow:-5px -5px 10px  #142428,
+	5px 5px 10px #0F1B1E; 
+    /* position: center;
+    margin: center; */
+    
+}
+#magazine .turn-page{
+	background-color:#ccc;
+    background-size: 100% 100%;
+    
+}
+
+#magazine div{
+    background-size: cover;
+    background-position: center center;
+}
+button{
+    border:transparent;
+    border-radius: 20px;
+    background-color: transparent;
+    width: 90px;
+    color: #FFAF3F;
+    border-width: 30px;
+    box-shadow: -5px -5px 10px  #142428,
+	5px 5px 10px #0F1B1E;  
+
+}
+button:hover{
+    box-shadow: -10px -10px 10px  #142428,
+	10px 10px 10px #0F1B1E; 
+}
