@@ -23,8 +23,8 @@ ps: did you notice our color theme are the colors of Bitcamp?
 
 
 FILES GUIDE:
-Main.html, Mine.js, Main.css--> All refer to the main Home page of the website
-style.css--> styled the Book-viewed page
-turn.js, jquery.min.1.7-->files that made the page turning effect to work. 
-Maze.html & PAP.html --> Two examples of code that was used to display the sample e-books. 
+- Main.html, Mine.js, Main.css--> All refer to the main Home page of the website
+- style.css--> styled the Book-viewed page
+- turn.js, jquery.min.1.7-->files that made the page turning effect to work. 
+- Maze.html & PAP.html --> Two examples of code that was used to display the sample e-books. 
 
